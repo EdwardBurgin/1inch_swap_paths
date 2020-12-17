@@ -1,0 +1,5 @@
+flask
+etherscan-python
+requests
+simplejson
+python-dotenv
